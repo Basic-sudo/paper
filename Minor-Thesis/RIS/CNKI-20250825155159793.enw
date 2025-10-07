@@ -1,0 +1,55 @@
+%0 Journal Article
+%A 彭杰
+%A 杨世廷
+%A 黄宁
+%A 李河玉
+%A 刘彬
+%+ 中建工程产业技术研究院有限公司;中国建设基础设施有限公司;
+%T 工程结构变形和应变监测技术研究综述
+%J 智能建筑
+%D 2022
+%V 
+%N 08
+%X <正>0引言工程结构尤其是大型结构如高层建筑、桥梁、隧道、高大构筑物（如烟囱、电视塔）等的受力体系很复杂,在荷载、风力、复杂地质条件、周边环境中干扰因素的影响下,往往会产生不同程度的动态和静态的变形。变形如果超过了规定限度,轻则影响工程结构的正常使用,重则有可能引发结构失稳、坍塌,会给人民生命财产带来巨大损失[1]。因此,在工程结构的施工和使用阶段,必须对其进行变形（沉降、位移等）监测,以便掌握结构的安全稳定状况,必要时采取措施,防止事故发生。此外,
+%P 47-50
+%@ 1672-1640
+%L 11-4991/TU
+%U https://kns.cnki.net/kcms2/article/abstract?v=wScU5_zS5CO36Auy0HP-x_3vkXeTe9xUWdU-hgfCVRAIhGwRLvijoTOyK8z1a58-3KV03sjBURPsOcGd6Lo93bY2CtVAzlqAAF4fWJj7wpDNTUy0_SZ92hy8QrrYmtEDLjikAKCkMHBkm9myCOVdHM-Uk3e1MMym7YAiUmIl-GdodM8-KRpViGnMHvNpSQOk&uniplatform=NZKPT&language=CHS
+%W CNKI
+
+%0 Journal Article
+%A 陈义平
+%A 代冲
+%+ 黑龙江科技大学电子与信息工程学院;
+%T 磁耦合谐振无线供电最佳传输效率的跟踪方法
+%J 黑龙江科技大学学报
+%D 2022
+%V 32
+%N 02
+%K 磁耦合谐振;无线供电;效率跟踪;频率分裂
+%X 针对无线电能传输系统中负载阻抗及距离不固定造成的传输效率和功率下降的问题，提出了一种最佳传输效率跟踪方法。通过研究磁耦合谐振电路的频率特性，建立接收端的归一化电压与失谐因子和耦合因子之间的关系，仿真分析频率分裂现象以及频率优化对提高传输效率的影响，通过设计最佳频率调节算法，实验研究了一套无线供电系统最佳传输效率的跟踪特性。结果表明，线圈距离在20 cm范围内变化时，传输功率可达110 W,效率保持76%以上，验证了理论分析的正确性。
+%P 233-238
+%@ 2095-7262
+%L 23-1588/TD
+%U https://kns.cnki.net/kcms2/article/abstract?v=wScU5_zS5CNUuq_yvYfAJextoKnv6sPtJrd6Pb4oQBpzTcrFVFk3Lt5KvpZTNTCSY9YxFcakoQ5ZpCufNWiyAs9b9LGet-ZxyIb2qAPg0qs3OEsIJvXyasC7rWwaOWGTr8w9PEojAsp4aozyUacSNj7N06TN-kVbT9_9fH70ZAs8z0N4M-yBEoUIeej-_kPw&uniplatform=NZKPT&language=CHS
+%W CNKI
+
+%0 Journal Article
+%A 张林森
+%A 宁小玲
+%A 胡平
+%+ 海军工程大学兵器工程学院;海军工程大学舰船与海洋工程学院;
+%T 超声耦合无线电能传输技术研究综述
+%J 水下无人系统学报
+%D 2021
+%V 29
+%N 03
+%K 无线电能传输;超声;耦合
+%X 超声耦合无线电能传输(UCCET)是一种新型的无线电能传输技术。文中从UCCET技术的应用场景和优势入手,分析了UCCET基本原理,总结了其技术特点。随后着重从低功率和高功率应用两方面分别梳理了国内外UCCET技术在植入式医疗电子设备供电、隔金属介质设备供电、隔空气介质设备供电和隔水介质设备供电等方面的研究现状,最后阐述了UCCET在声阻抗匹配、传输机理研究和换能器设计理论等方面面临的技术挑战。
+%P 257-264
+%@ 2096-3920
+%L 61-1509/TJ
+%U https://kns.cnki.net/kcms2/article/abstract?v=wScU5_zS5CM7FLkpEQB-dDtSJrI2sX2IROP2j2VmHRooTP73Pjen7yJhKaa9-B6yL6AZ_j_S3_RWnqzSTqfCiW7FfdMJ5NU2or3EYayaSsJ9n1hXyvNHzTIyGsZDoz9s8SpX7XLtyKFhxLpplOJ47_bRfCRxomxHv1Esm3VZOfz_NWutBfDJbjl6ricBKl8A&uniplatform=NZKPT&language=CHS
+%W CNKI
+
+ 

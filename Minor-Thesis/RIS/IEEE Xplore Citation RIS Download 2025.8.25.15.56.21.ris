@@ -1,0 +1,37 @@
+TY  - JOUR
+TI  - A Low-Cost Through-Metal Communication System for Sensors in Metallic Pipes
+T2  - IEEE Sensors Journal
+SP  - 8952
+EP  - 8960
+AU  - H. Guo
+AU  - M. Prince
+AU  - J. J. Ramsey
+AU  - J. Turner
+AU  - M. Allen
+AU  - C. Samuels
+AU  - J. J. A. Nuako
+PY  - 2023
+KW  - Sensors
+KW  - Metals
+KW  - Wireless communication
+KW  - Temperature sensors
+KW  - Containers
+KW  - Wireless sensor networks
+KW  - Robot sensing systems
+KW  - Communication system design
+KW  - metal-constrained environment
+KW  - through-metal communication
+KW  - wireless communication
+KW  - wireless sensors
+DO  - 10.1109/JSEN.2023.3253663
+JO  - IEEE Sensors Journal
+IS  - 8
+SN  - 1558-1748
+VO  - 23
+VL  - 23
+JA  - IEEE Sensors Journal
+Y1  - 15 April15, 2023
+AB  - Metallic pipes and other containers are widely used to store and transport toxic gases and liquids. Various sensors have been designed to monitor the environment inside metallic pipes and containers, such as pressure, liquid-level, and chemical sensors. Moreover, sensors are also used to inspect and detect pipe leakages. However, sensors are usually placed outside of the metallic pipes and containers and use ultrasound to monitor the internal unseen environment. This is mainly due to the fact that internal sensors cannot communicate with external data sinks without cables, but using cables can dramatically affect the metal-sealed structure. Wireless communication is desirable to communicate with internal sensors, but it experiences high attenuation losses since metal can block wireless signals due to its high conductivity. This article develops a low-cost through-metal communication system prototype using off-the-shelf electronic components. The system is fully reconfigurable, and arbitrary modulation and coding schemes can be implemented. We design a transmit module which includes a signal processing microcontroller, an amplifier, and a transmit coil and the receive module which includes a receive coil, an amplifier, and a microcontroller with demodulation algorithms and bit-error-rate (BER) calculations. The performance of the prototype is evaluated using various symbol rates, distances, and transmission power. The results show that the communication system can achieve a 500-b/s data rate with 0.01 BER and 3.4-cm communication range when penetrating an aluminum pipe with 7-mm thickness.
+ER  - 
+
+

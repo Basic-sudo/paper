@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Simultaneous wireless power transfer and data communication using synchronous pulse-controlled load modulation
+AU  - Mao, Shitong
+AU  - Wang, Hao
+AU  - Zhu, Chunbo
+AU  - Mao, Zhi-Hong
+AU  - Sun, Mingui
+JO  - Measurement
+VL  - 109
+SP  - 316
+EP  - 325
+PY  - 2017
+DA  - 2017/10/01/
+SN  - 0263-2241
+DO  - https://doi.org/10.1016/j.measurement.2017.05.068
+UR  - https://www.sciencedirect.com/science/article/pii/S0263224117303779
+KW  - Wireless power transfer
+KW  - Data communication
+KW  - Load modulation
+KW  - Transient process
+KW  - Coupling mode theory
+AB  - Wireless Power Transfer (WPT) and wireless data communication are both important problems of research with various applications, especially in medicine. However, these two problems are usually studied separately. In this work, we present a joint study of both problems. Most medical electronic devices, such as smart implants, must have both a power supply to allow continuous operation and a communication link to pass information. Traditionally, separate wireless channels for power transfer and communication are utilized, which complicate the system structure, increase power consumption and make device miniaturization difficult. A more effective approach is to use a single wireless link with both functions of delivering power and passing information. We present a design of such a wireless link in which power and data travel in opposite directions. In order to aggressively miniaturize the implant and reduce power consumption, we eliminate the traditional multi-bit Analog-to-Digital Converter (ADC), digital memory and data transmission circuits all together. Instead, we use a pulse stream, which is obtained from the original biological signal, by a sigma-delta converter and an edge detector, to alter the load properties of the WPT channel. The resulting WPT signal is synchronized with the load changes therefore requiring no memory elements to record inter-pulse intervals. We take advantage of the high sensitivity of the resonant WPT to the load change, and the system dynamic response is used to transfer each pulse. The transient time of the WPT system is analyzed using the coupling mode theory (CMT). Our experimental results show that the memoryless approach works well for both power delivery and data transmission, providing a new wireless platform for the design of future miniaturized medical implants.
+ER  - 

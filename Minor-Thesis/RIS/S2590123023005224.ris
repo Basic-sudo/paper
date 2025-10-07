@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Kalman filter based sensor fault detection in wireless sensor network for smart irrigation
+AU  - Jihani, Nassima
+AU  - Kabbaj, Mohammed Nabil
+AU  - Benbrahim, Mohammed
+JO  - Results in Engineering
+VL  - 20
+SP  - 101395
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 2590-1230
+DO  - https://doi.org/10.1016/j.rineng.2023.101395
+UR  - https://www.sciencedirect.com/science/article/pii/S2590123023005224
+KW  - Sensor fault detection
+KW  - Wireless sensor network
+KW  - Kalman filter
+KW  - Autoregressive model
+KW  - Smart irrigation
+AB  - Ensuring the reliability of data obtained from Wireless Sensor Networks (WSNs) deployed in farmland to monitor soil parameters is crucial for optimizing smart irrigation. These distributed sensor nodes encounter various challenges and are vulnerable to sensor faults that can significantly degrade the network's service quality. In this article, we present an innovative approach for detecting sensor faults within WSNs for smart irrigation by combining an autoregressive model with a Kalman filter. Integrating the Kalman filter and the autoregressive model combines their strengths in a synergistic manner. The algorithm is developed with consideration for the resource constraints of the sensor nodes and addresses the challenge of lacking ground truth information for the monitored area. The primary advantage of this proposed technique lies in its simplicity of implementation, requiring minimal computational complexity while enhancing the application's reliability. Through experimentation and validation, we demonstrate the effectiveness of this combined approach in detecting sensor fault detection in real-world WSNs scenarios.
+ER  - 

@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Ultrasonic wireless power links for battery-free condition monitoring in metallic enclosures
+AU  - Fu, Hailing
+AU  - Rao, Jing
+AU  - Harb, Mohammad S.
+AU  - Theodossiades, Stephanos
+JO  - Ultrasonics
+VL  - 114
+SP  - 106395
+PY  - 2021
+DA  - 2021/07/01/
+SN  - 0041-624X
+DO  - https://doi.org/10.1016/j.ultras.2021.106395
+UR  - https://www.sciencedirect.com/science/article/pii/S0041624X21000366
+KW  - Ultrasonic
+KW  - Wireless power links
+KW  - Piezoelectric transducers
+KW  - Metallic enclosures
+AB  - This paper presented a novel ultrasonic wireless power link (UWPL) to provide power supply for embedded condition monitoring of enclosed metallic structures, where recharging or replacing batteries can be problematic. Two piezoelectric transducers are adopted to establish the wireless power links, within which one transducer is used to generate ultrasonic waves and the other is to receive the transferred ultrasonic energy and to energize the associated embedded condition monitoring units. A power management solution is established to regulate the receiver output into a constant voltage suitable for sensing application. A theoretical model was established to understand the UWPL dynamics and to analyze the energy budget balance between the UWPL and the sensing power demands. A finite element model was built to validate the proposed idea. The UWPL was then experimentally implemented using two piezoelectric transducers and tested in aluminium plates with different thickness. A power management sub-system was developed and tested for sensing applications. An output power of 1.73 mW was obtained on a 1.5 kΩ resister with the input voltage of 15 V at 42.6 kHz through a 6 mm-thick aluminium plate. Sufficient power can be transferred over a large distance via metallic structures, showing the capability in implementing battery-free condition monitoring of enclosed metallic structures, such as petroleum pipelines, engines, and aluminium airframe.
+ER  - 

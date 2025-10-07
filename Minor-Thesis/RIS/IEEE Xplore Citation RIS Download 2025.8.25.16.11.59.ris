@@ -1,0 +1,34 @@
+TY  - CONF
+TI  - Design of Ultrasonic Transducer Structure for Underwater Wireless Power Transfer System
+T2  - 2021 IEEE Wireless Power Transfer Conference (WPTC)
+SP  - 1
+EP  - 4
+AU  - Y. Zhao
+AU  - Y. Du
+AU  - Z. Wang
+AU  - J. Wang
+AU  - Y. Geng
+PY  - 2021
+KW  - Ultrasonic transducers
+KW  - Resistors
+KW  - Transducers
+KW  - Resonant frequency
+KW  - RLC circuits
+KW  - Wireless power transfer
+KW  - Acoustics
+KW  - underwater wireless power transfer
+KW  - ultrasonic transducer
+KW  - input impedance
+KW  - resonant frequency
+DO  - 10.1109/WPTC51349.2021.9458061
+JO  - 2021 IEEE Wireless Power Transfer Conference (WPTC)
+IS  - 
+SN  - 2573-7651
+VO  - 
+VL  - 
+JA  - 2021 IEEE Wireless Power Transfer Conference (WPTC)
+Y1  - 1-4 June 2021
+AB  - Ultrasonic wireless power transfer (UWPT) is an important branch of wireless power transfer (WPT) technology, which is widely used in closed metal containers for charging and implanted medical devices. But for an underwater UWPT system, there are two main factors that restrict the transmission efficiency. One is the electrical matching, which can be achieved through a resonance compensation circuit. The other is the acoustic matching, it needs to be considered in terms of transducer structure and material, which has not yet formed a complete theoretical system. This paper proposed a design concept and firstly designed the material and structure of a typical ultrasonic transducer according to acoustic transmission matrix. The input impedance and resonant frequency were then calculated based on Mason equivalent circuit model. In order to restrain the radial acoustic radiation of the piezoelectric ceramic, a new iron shell was added to the designed structure and formed a modified transducer. Then, the simulation and experimental verification were carried out. The theoretical efficiency of the modified transducer was 78.2% when the transmission distance was 10 cm and the receiving end was connected to a 200 Ω load resistor.
+ER  - 
+
+

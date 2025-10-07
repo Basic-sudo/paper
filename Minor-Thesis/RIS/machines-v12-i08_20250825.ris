@@ -1,0 +1,20 @@
+TY  - EJOUR
+AU  - Tao, Yourui 
+AU  - Liu, Huishan 
+AU  - Wu, Miaojie 
+AU  - Zheng, Nanxian 
+AU  - Pei, Jiaxing 
+TI  - The Effect of Cycloid Gear Wear on the Transmission Accuracy of the RV Reducer
+T2  - Machines
+PY  - 2024
+VL  - 12
+IS  - 8
+SN  - 2075-1702
+AB  - The cycloid gear wear of RV reducers leads to the degradation of the industrial robots’ transmission accuracy, but the degradation law with respect to the wear volume is still unclear. In this paper, a method for determining transmission error (TE) through a combination of numerical and simulation analysis is proposed. The wear model of cycloid gear was ascertained based on the theory of Archard. Then, the full rigid body and rigid–flexible coupling model of RV reducers were established using the multibody dynamics theory. Finally, the static transmission error (STE) and dynamic transmission error (DTE) were investigated. The results show that as working hours increase, the cycloid gear wear volume increases, and transmission accuracy deteriorates, but the rate tends to slow down.
+KW  - cycloid pinwheel transmission
+KW  - RV reducer
+KW  - rigid–flexible coupling
+KW  - transmission accuracy
+KW  - wear volume
+DO  - 10.3390/machines12080511
+ER  -

@@ -1,0 +1,32 @@
+TY  - JOUR
+TI  - Backward Data Transfer From Deeply Implanted Device Employing Ultrasonic Load Amplitude-Phase Shift Keying
+T2  - IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+SP  - 199
+EP  - 207
+AU  - S. Ozeri
+AU  - O. Amrani
+PY  - 2022
+KW  - Transducers
+KW  - Acoustics
+KW  - Implants
+KW  - Impedance
+KW  - Modulation
+KW  - Data transfer
+KW  - Vibrations
+KW  - Backward data transmission
+KW  - impedance modulation
+KW  - implant power
+KW  - load phase shift keying (LPSK)
+KW  - ultrasonic transcutaneous energy transfer (UTET)
+DO  - 10.1109/TUFFC.2021.3118722
+JO  - IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+IS  - 1
+SN  - 1525-8955
+VO  - 69
+VL  - 69
+JA  - IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+Y1  - Jan. 2022
+AB  - Ultrasonic transcutaneous energy transfer (UTET) is used to wirelessly energize low-power miniature implanted devices. Whenever backward data transfer from the implant is of interest, load modulation may be utilized. With load modulation, data is sent backward by imposing ultrasonic reflections from the implant–tissue contact surface. This may be achieved by imposing unmatched electrical load over the implanted transducer electrical terminals. In order to sustain sufficient ultrasonic average power harvesting also during backward data transfer, only a small portion of the impinging ultrasonic energy is allowed to reflect backward. Previous work focused primarily on load modulation via ON– OFF keying (OOK). Herein, it is further shown that phase shift keying can be realized by exploiting the phase characteristics of a matched transducer around its vibration resonance. Load amplitude shift keying (ASK) properly combined with load phase shift keying (LPSK) may be applied, for introducing energy-efficient, high-order signaling schemes, thus improving utilization of the ultrasonic channel. LPSK is realized by momentary imposing reactive loads across the implanted transducer electrical terminals, according to the bit stream of the data to be sent. In this work, LPSK with various constellations and coding are demonstrated, exploiting the acoustic impedance dependency of the implanted piezoelectric resonator on its electrical loading. To support the theoretical notion, a backward data transfer using two-state phase modulation at a bit rate of 20 kbit/s over an ultrasonic carrier frequency of 250 kHz is demonstrated, using finite-element simulation. In the simulation, an implanted transducer was constructed of a 4-mm-diameter hard lead–zirconate–titanate (PZT) disk (PZT8, unloaded mechanical quality property  ${Q}_{m}$  of 1000). The PZT resonator was acoustically matched to the tissue impedance, using a layer of 2.72-mm epoxy filled glue and a 2-mm-thick layer of polyethylene.
+ER  - 
+
+

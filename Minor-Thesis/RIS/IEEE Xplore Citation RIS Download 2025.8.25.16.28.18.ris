@@ -1,0 +1,37 @@
+TY  - JOUR
+TI  - Power Waves and Conjugate Matching
+T2  - IEEE Transactions on Circuits and Systems II: Express Briefs
+SP  - 92
+EP  - 96
+AU  - J. Rahola
+PY  - 2008
+KW  - Reflection
+KW  - Impedance
+KW  - Voltage
+KW  - Power transmission lines
+KW  - Transmission line theory
+KW  - Distributed parameter circuits
+KW  - Scattering
+KW  - Microwave theory and techniques
+KW  - Circuit theory
+KW  - Power generation
+KW  - Circuit analysis
+KW  - impedance matching
+KW  - scattering parameters
+KW  - two-port circuits
+KW  - Circuit analysis
+KW  - impedance matching
+KW  - scattering parameters
+KW  - two-port circuits
+DO  - 10.1109/TCSII.2007.905420
+JO  - IEEE Transactions on Circuits and Systems II: Express Briefs
+IS  - 1
+SN  - 1558-3791
+VO  - 55
+VL  - 55
+JA  - IEEE Transactions on Circuits and Systems II: Express Briefs
+Y1  - Jan. 2008
+AB  - The concept of power waves gives more natural relations between incident and reflected power in a microwave network than the typically used traveling waves. The reflection coefficient for power waves directly describes the reflection of power whereas the reflection coefficient of traveling waves describes the reflection of the waves themselves. In this brief, new physical reasoning of power waves is given starting from the principle of conjugate matching. In addition, a new formula for the reference impedances for a two-port system is given such that the system is simultaneously conjugate matched for both ports.
+ER  - 
+
+

@@ -1,0 +1,30 @@
+TY  - CONF
+TI  - Ultrasonic Video Transmission through Solid Metallic Channel
+T2  - 2022 IEEE International Ultrasonics Symposium (IUS)
+SP  - 1
+EP  - 3
+AU  - X. Huang
+AU  - J. Saniie
+PY  - 2022
+KW  - Wireless communication
+KW  - Ultrasonic transducers
+KW  - Transmitters
+KW  - OFDM
+KW  - Bit rate
+KW  - Receivers
+KW  - Solids
+KW  - Ultrasonic Communication
+KW  - SoC Video Transmission
+KW  - OFDM Modulation
+DO  - 10.1109/IUS54386.2022.9957154
+JO  - 2022 IEEE International Ultrasonics Symposium (IUS)
+IS  - 
+SN  - 1948-5727
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Ultrasonics Symposium (IUS)
+Y1  - 10-13 Oct. 2022
+AB  - Ultrasonic waves are the limited means for wireless communication in solid metallic channels such as metallic bars, plates, or pipes with less attenuation, long-distance propagation, and high detection efficiency. Video monitoring with ultrasonic communication through a solid channel is a promising solution for delivering information through metallic channels. This paper introduces an ultrasonic video communication system through metal bars. However, the key challenges associated with the ultrasonic approach are channel dispersion, distortion, and the multipath effect, which lead to intersymbol interference (ISI). We investigated the feasibility of video stream transmission using the orthogonal frequency-division multiplexing (OFDM) method to reduce the ISI. For this study, an efficient software-defined ultrasonic communication (SDUC) system is designed for video transmission through an aluminum rectangular bar (ARB) channel using two 2.5-MHz ultrasonic piezoelectric transducers with 60° oblique angle wedges. The experimental studies are conducted using ARB channels of 25, 40, and 50 cm long (distance between the transmitter and the receiver). The communication bitrate exceeded 1074 kbps without any error despite dispersion, ISI, and the multipath effect within the ARB channel.
+ER  - 
+
+

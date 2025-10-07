@@ -1,0 +1,37 @@
+TY  - CONF
+TI  - Wireless communication using ultrasound through metal barriers: Experiment and analysis
+T2  - 2015 10th International Conference on Information, Communications and Signal Processing (ICICS)
+SP  - 1
+EP  - 5
+AU  - J. Zhang
+AU  - Z. Yu
+AU  - H. Yang
+AU  - M. Wu
+AU  - J. Yang
+PY  - 2015
+KW  - Transmitters
+KW  - Acoustics
+KW  - Communication channels
+KW  - Low-pass filters
+KW  - Steel
+KW  - Receivers
+KW  - Peak to average power ratio
+KW  - Communication systems
+KW  - Bandwidth
+KW  - Power demand
+KW  - wireless communication
+KW  - ultrasound
+KW  - piezoelectric transducers
+KW  - SC-FDE
+DO  - 10.1109/ICICS.2015.7459888
+JO  - 2015 10th International Conference on Information, Communications and Signal Processing (ICICS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 10th International Conference on Information, Communications and Signal Processing (ICICS)
+Y1  - 2-4 Dec. 2015
+AB  - Many industrial applications need transmission of information through metal barriers without physical penetrations. Conventional wireless communication is ineffective due to the Faraday shielding effect. Ultrasound can be used to convey information in this situation. To achieve lower power consumption and higher data rate simultaneously, an ultrasonic communication system based on single-carrier frequency domain equalization (SC-FDE) has been proposed. Compared with conventional ultrasonic communication systems based on orthogonal frequency division multiplexing (OFDM), it has a lower peak-to-average power ratio while maintaining a similar performance in anti-multipath fading. Unique word sequences are used to realize the frame synchronization and to estimate the communication channel characteristics. A prototype system has been implemented on a field programmable gate array and a digital signal processor. It gets an effective bit rate of 436 kbps through a steel barrier within the thickness of 70 mm, and higher data rate will be achieved by using higher frequency channels or higher order modulation methods. Due to the low-complexity merit of the transmitter, the proposed system could work for a long time even under battery-powered conditions, which makes it practical for many industrial applications.
+ER  - 
+
+
